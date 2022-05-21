@@ -1,0 +1,12 @@
+{
+    "env": "production",
+    "secretKey": "tesst",
+    "log": {
+        "format": "combined",
+        "dir": "../logs"
+    },
+    "cors": {
+        "origin": true,
+        "credentials": true
+    }
+}
